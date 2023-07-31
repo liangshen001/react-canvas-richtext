@@ -2,6 +2,12 @@
 
 @liangshen/react-canvas的富文本插件
 
+
+## 环境
+
+node v16+
+
+
 ## 安装
 
 ```

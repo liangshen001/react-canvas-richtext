@@ -8,6 +8,9 @@
     "dist",
     "README.md"
   ],
+  "engines": {
+    "node": ">=16"
+  },
   "keywords": [
     "react",
     "canvas",
