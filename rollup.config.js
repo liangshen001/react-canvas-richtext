@@ -43,6 +43,7 @@ const config = {
         resolve(),
         terser(),
     ],
+    external: ['minigame-canvas-engine-richtext'],
     watch: {
         clearScreen: false,
     },
