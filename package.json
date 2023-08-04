@@ -63,7 +63,7 @@
     "@types/react-dom": "^18.2.5",
     "@types/react-reconciler": "^0.28.2",
     "cross-env": "^7.0.3",
-    "minigame-canvas-engine-richtext": "^0.0.3",
+    "minigame-canvas-engine-richtext": "0.0.3",
     "react": "^18.2.0",
     "react-scripts": "5.0.1",
     "rollup": "^3.21.6",
@@ -76,6 +76,6 @@
   },
   "peerDependencies": {
     "react": "^18.2.0",
-    "@liangshen/react-canvas": "^18.0.10"
+    "@liangshen/react-canvas": "^18.0.12"
   }
 }
