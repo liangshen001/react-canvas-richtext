@@ -75,7 +75,7 @@
   },
   "peerDependencies": {
     "react": "^18.2.0",
-    "@liangshen/react-canvas": "^18.0.12"
+    "@liangshen/react-canvas": "^18.0.13"
   },
   "dependencies": {
     "minigame-canvas-engine-richtext": "0.0.3"
