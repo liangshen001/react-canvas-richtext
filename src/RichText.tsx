@@ -5,7 +5,7 @@ import ReactCanvas from "@liangshen/react-canvas";
 
 export interface RichTextProps {
     className?: string;
-    text?: string;
+    value?: string;
     onClick?: () => void;
     style?: CSSProperties;
 }
